@@ -1,3 +1,3 @@
 # Verstka-1
 Educational layout
-![Uploading screencapture-file-C-Users-ravka-Desktop-Verstka-1-index-html-2023-05-16-01_05_22.png…]()
+![image](https://github.com/RavilMinnegaliev426/Verstka-1/assets/84266444/add70583-fc3e-4dd7-b494-aa8494d88d92)
